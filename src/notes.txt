@@ -1,0 +1,12 @@
+Managing form data
+"How to Convert HTML Form Field Values to a JSON Object"
+https://code.lengstorf.com/get-form-values-as-json/
+
+Handling Events (onClick)
+https://reactjs.org/docs/handling-events.html
+
+Controlled elements - want to learn, ex, how to disable submit.
+controlled elements are "live" for validation, etc.
+
+Why did I need to add "thing" to JSON for all data to be console.logged?
+

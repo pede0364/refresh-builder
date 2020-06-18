@@ -1,0 +1,14 @@
+{
+	"categories": [
+		"American",
+		"Asian",
+		"Dessert",
+		"Indian",
+		"Libations",
+		"Mexican",
+		"Southwestern"
+	],
+	"cost": ["$", "$$", "$$$"],
+	"rating": ["*", "**", "***", "****", "*****"],
+	"thing": ""
+}

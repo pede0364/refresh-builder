@@ -1,0 +1,16 @@
+label {
+	display: block;
+}
+input {
+	display: block;
+	margin: 5px 0 10px 0;
+}
+select {
+	display: inline;
+	margin: 0 0 10px 10px;
+}
+
+.border {
+	border: 1px solid #ccc;
+	padding: 10px;
+}
